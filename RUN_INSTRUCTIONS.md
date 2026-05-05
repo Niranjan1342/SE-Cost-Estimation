@@ -14,6 +14,7 @@ Open Terminal 1 and run:
 ```powershell
 cd "C:\Users\niran\OneDrive\Desktop\AI-Based-Software-Cost-Estimation-with-Visualization-and-What-If-Analysis\backend"
 python -m venv .venv
+- .\.venv\Scripts\python.exe app.py
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python train.py
